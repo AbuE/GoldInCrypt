@@ -1,0 +1,6 @@
+{
+  "name": "Gold InCrypt",
+  "symbol": "GIC",
+  "description": "Crypto backed by Gold on the Solana Network. For every GIC you purchase, we acquire Gold or invest in Gold ETFs with the proceeds.",
+  "image": "https://token-creator-lac.vercel.app/token_image.png"
+}
